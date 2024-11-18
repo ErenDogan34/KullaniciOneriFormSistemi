@@ -1,0 +1,182 @@
+[
+  {
+    "ContainingType": "rannaSoftwareProject.Controllers.FormController",
+    "Method": "AddForm",
+    "RelativePath": "api/Form/AddForm",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "supportForm",
+        "Type": "rannaSoftwareProject.Data.Entities.SupportForm",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "rannaSoftwareProject.Controllers.FormController",
+    "Method": "DeleteForm",
+    "RelativePath": "api/Form/DeleteForm",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "rannaSoftwareProject.Controllers.FormController",
+    "Method": "FormProcessed",
+    "RelativePath": "api/Form/FormProcessed",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "rannaSoftwareProject.Controllers.FormController",
+    "Method": "GetAllForm",
+    "RelativePath": "api/Form/GetAllForm",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "rannaSoftwareProject.Controllers.LoginController",
+    "Method": "Login",
+    "RelativePath": "api/Login/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginDto",
+        "Type": "rannaSoftwareProject.Data.Dto.LoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "rannaSoftwareProject.Controllers.UserController",
+    "Method": "AddUser",
+    "RelativePath": "api/User/AddUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "rannaSoftwareProject.Data.Entities.User",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "rannaSoftwareProject.Controllers.UserController",
+    "Method": "DeleteUser",
+    "RelativePath": "api/User/DeleteUser",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "rannaSoftwareProject.Controllers.UserController",
+    "Method": "GetById",
+    "RelativePath": "api/User/GetById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "rannaSoftwareProject.Controllers.UserController",
+    "Method": "GetByIdPerson",
+    "RelativePath": "api/User/GetByIdPerson",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "rannaSoftwareProject.Controllers.UserController",
+    "Method": "GetUser",
+    "RelativePath": "api/User/GetUser",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "rannaSoftwareProject.Controllers.UserController",
+    "Method": "Register",
+    "RelativePath": "api/User/Register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "rannaSoftwareProject.Data.Entities.User",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "rannaSoftwareProject.Controllers.UserController",
+    "Method": "UpdatePerson",
+    "RelativePath": "api/User/UpdatePerson",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "rannaSoftwareProject.Data.Entities.User",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

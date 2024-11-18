@@ -1,0 +1,17 @@
+C:\Users\msı\source\repos\rannaSoftwareProject\rannaSoftwareProject.Business\bin\Debug\net8.0\rannaSoftwareProject.Business.deps.json
+C:\Users\msı\source\repos\rannaSoftwareProject\rannaSoftwareProject.Business\bin\Debug\net8.0\rannaSoftwareProject.Business.dll
+C:\Users\msı\source\repos\rannaSoftwareProject\rannaSoftwareProject.Business\bin\Debug\net8.0\rannaSoftwareProject.Business.pdb
+C:\Users\msı\source\repos\rannaSoftwareProject\rannaSoftwareProject.Business\bin\Debug\net8.0\rannaSoftwareProject.Data.dll
+C:\Users\msı\source\repos\rannaSoftwareProject\rannaSoftwareProject.Business\bin\Debug\net8.0\rannaSoftwareProject.Service.dll
+C:\Users\msı\source\repos\rannaSoftwareProject\rannaSoftwareProject.Business\bin\Debug\net8.0\rannaSoftwareProject.Data.pdb
+C:\Users\msı\source\repos\rannaSoftwareProject\rannaSoftwareProject.Business\bin\Debug\net8.0\rannaSoftwareProject.Service.pdb
+C:\Users\msı\source\repos\rannaSoftwareProject\rannaSoftwareProject.Business\obj\Debug\net8.0\rannaSoftwareProject.Business.csproj.AssemblyReference.cache
+C:\Users\msı\source\repos\rannaSoftwareProject\rannaSoftwareProject.Business\obj\Debug\net8.0\rannaSoftwareProject.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msı\source\repos\rannaSoftwareProject\rannaSoftwareProject.Business\obj\Debug\net8.0\rannaSoftwareProject.Business.AssemblyInfoInputs.cache
+C:\Users\msı\source\repos\rannaSoftwareProject\rannaSoftwareProject.Business\obj\Debug\net8.0\rannaSoftwareProject.Business.AssemblyInfo.cs
+C:\Users\msı\source\repos\rannaSoftwareProject\rannaSoftwareProject.Business\obj\Debug\net8.0\rannaSoftwareProject.Business.csproj.CoreCompileInputs.cache
+C:\Users\msı\source\repos\rannaSoftwareProject\rannaSoftwareProject.Business\obj\Debug\net8.0\rannaSof.547B3828.Up2Date
+C:\Users\msı\source\repos\rannaSoftwareProject\rannaSoftwareProject.Business\obj\Debug\net8.0\rannaSoftwareProject.Business.dll
+C:\Users\msı\source\repos\rannaSoftwareProject\rannaSoftwareProject.Business\obj\Debug\net8.0\refint\rannaSoftwareProject.Business.dll
+C:\Users\msı\source\repos\rannaSoftwareProject\rannaSoftwareProject.Business\obj\Debug\net8.0\rannaSoftwareProject.Business.pdb
+C:\Users\msı\source\repos\rannaSoftwareProject\rannaSoftwareProject.Business\obj\Debug\net8.0\ref\rannaSoftwareProject.Business.dll

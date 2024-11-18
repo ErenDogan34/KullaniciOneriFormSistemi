@@ -1,0 +1,29 @@
+﻿
+@{
+    ViewData["Title"] = "GetAllForm";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Mesajlar</h1>
+
+<div class="container">
+    <table id="dataTable" class="table table-striped">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Konu</th>
+                <th>Mesaj</th>
+                <th>Durum</th>
+                <th>Okundu</th>
+                <th>Sil</th>
+            </tr>
+        </thead>
+        <tbody>
+        </tbody>
+    </table>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<!-- Bootstrap Bundle with Popper -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+<script src="~/js/formlist.js"></script>

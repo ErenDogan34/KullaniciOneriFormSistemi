@@ -1,0 +1,14 @@
+C:\Users\msı\source\repos\rannaSoftwareProject\rannaSoftwareProject.Data\bin\Debug\net8.0\rannaSoftwareProject.Data.deps.json
+C:\Users\msı\source\repos\rannaSoftwareProject\rannaSoftwareProject.Data\bin\Debug\net8.0\rannaSoftwareProject.Data.runtimeconfig.json
+C:\Users\msı\source\repos\rannaSoftwareProject\rannaSoftwareProject.Data\bin\Debug\net8.0\rannaSoftwareProject.Data.dll
+C:\Users\msı\source\repos\rannaSoftwareProject\rannaSoftwareProject.Data\bin\Debug\net8.0\rannaSoftwareProject.Data.pdb
+C:\Users\msı\source\repos\rannaSoftwareProject\rannaSoftwareProject.Data\obj\Debug\net8.0\rannaSoftwareProject.Data.csproj.AssemblyReference.cache
+C:\Users\msı\source\repos\rannaSoftwareProject\rannaSoftwareProject.Data\obj\Debug\net8.0\rannaSoftwareProject.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msı\source\repos\rannaSoftwareProject\rannaSoftwareProject.Data\obj\Debug\net8.0\rannaSoftwareProject.Data.AssemblyInfoInputs.cache
+C:\Users\msı\source\repos\rannaSoftwareProject\rannaSoftwareProject.Data\obj\Debug\net8.0\rannaSoftwareProject.Data.AssemblyInfo.cs
+C:\Users\msı\source\repos\rannaSoftwareProject\rannaSoftwareProject.Data\obj\Debug\net8.0\rannaSoftwareProject.Data.csproj.CoreCompileInputs.cache
+C:\Users\msı\source\repos\rannaSoftwareProject\rannaSoftwareProject.Data\obj\Debug\net8.0\rannaSoftwareProject.Data.dll
+C:\Users\msı\source\repos\rannaSoftwareProject\rannaSoftwareProject.Data\obj\Debug\net8.0\refint\rannaSoftwareProject.Data.dll
+C:\Users\msı\source\repos\rannaSoftwareProject\rannaSoftwareProject.Data\obj\Debug\net8.0\rannaSoftwareProject.Data.pdb
+C:\Users\msı\source\repos\rannaSoftwareProject\rannaSoftwareProject.Data\obj\Debug\net8.0\rannaSoftwareProject.Data.genruntimeconfig.cache
+C:\Users\msı\source\repos\rannaSoftwareProject\rannaSoftwareProject.Data\obj\Debug\net8.0\ref\rannaSoftwareProject.Data.dll

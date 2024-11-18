@@ -1,0 +1,17 @@
+C:\Users\msı\source\repos\rannaSoftwareProject\rannaSoftwareProject.Service\bin\Debug\net8.0\rannaSoftwareProject.Service.deps.json
+C:\Users\msı\source\repos\rannaSoftwareProject\rannaSoftwareProject.Service\bin\Debug\net8.0\rannaSoftwareProject.Service.runtimeconfig.json
+C:\Users\msı\source\repos\rannaSoftwareProject\rannaSoftwareProject.Service\bin\Debug\net8.0\rannaSoftwareProject.Service.dll
+C:\Users\msı\source\repos\rannaSoftwareProject\rannaSoftwareProject.Service\bin\Debug\net8.0\rannaSoftwareProject.Service.pdb
+C:\Users\msı\source\repos\rannaSoftwareProject\rannaSoftwareProject.Service\obj\Debug\net8.0\rannaSoftwareProject.Service.csproj.AssemblyReference.cache
+C:\Users\msı\source\repos\rannaSoftwareProject\rannaSoftwareProject.Service\obj\Debug\net8.0\rannaSoftwareProject.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msı\source\repos\rannaSoftwareProject\rannaSoftwareProject.Service\obj\Debug\net8.0\rannaSoftwareProject.Service.AssemblyInfoInputs.cache
+C:\Users\msı\source\repos\rannaSoftwareProject\rannaSoftwareProject.Service\obj\Debug\net8.0\rannaSoftwareProject.Service.AssemblyInfo.cs
+C:\Users\msı\source\repos\rannaSoftwareProject\rannaSoftwareProject.Service\obj\Debug\net8.0\rannaSoftwareProject.Service.csproj.CoreCompileInputs.cache
+C:\Users\msı\source\repos\rannaSoftwareProject\rannaSoftwareProject.Service\obj\Debug\net8.0\rannaSoftwareProject.Service.dll
+C:\Users\msı\source\repos\rannaSoftwareProject\rannaSoftwareProject.Service\obj\Debug\net8.0\refint\rannaSoftwareProject.Service.dll
+C:\Users\msı\source\repos\rannaSoftwareProject\rannaSoftwareProject.Service\obj\Debug\net8.0\rannaSoftwareProject.Service.pdb
+C:\Users\msı\source\repos\rannaSoftwareProject\rannaSoftwareProject.Service\obj\Debug\net8.0\rannaSoftwareProject.Service.genruntimeconfig.cache
+C:\Users\msı\source\repos\rannaSoftwareProject\rannaSoftwareProject.Service\obj\Debug\net8.0\ref\rannaSoftwareProject.Service.dll
+C:\Users\msı\source\repos\rannaSoftwareProject\rannaSoftwareProject.Service\bin\Debug\net8.0\rannaSoftwareProject.Data.dll
+C:\Users\msı\source\repos\rannaSoftwareProject\rannaSoftwareProject.Service\bin\Debug\net8.0\rannaSoftwareProject.Data.pdb
+C:\Users\msı\source\repos\rannaSoftwareProject\rannaSoftwareProject.Service\obj\Debug\net8.0\rannaSof.B49FA9AC.Up2Date
